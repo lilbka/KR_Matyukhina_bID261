@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\user\Desktop\Алгоритмизация\KR1\KR1\Source.c(162,33): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\Алгоритмизация\KR1\KR1\Source.c(177,33): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  KR1.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\KR1\x64\Debug\KR1.exe
